@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Mokshith KR
 
-<!--
-**Mokshith04/Mokshith04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | Cybersecurity Enthusiast  
+🔐 Aspiring SOC Analyst  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently learning Cybersecurity & Ethical Hacking  
+- 🌱 Practicing Network Security & Threat Analysis  
+- 🎯 Goal: Become a Cybersecurity Analyst  
+
+---
+
+## 🛠️ Skills
+- Network Security
+- Wireshark
+- Nmap
+- Cisco Packet Tracer
+- Python
+- Linux (Kali Linux)
+
+---
+
+## 📜 Certifications
+- Cisco: Introduction to Cybersecurity  
+- Cisco: Packet Tracer  
+
+---
+
+## 📂 Projects
+- 🔹 Network Simulation (Packet Tracer)
+- 🔹 Packet Analysis (Wireshark)
+- 🔹 Port Scanning (Nmap)
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/mokshith-kr-a334aa401
+- Email: mokshithkr17@gmail.com
