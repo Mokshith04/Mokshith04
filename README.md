@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Mokshith KR
+#  Hi, I'm Mokshith KR
 
 🎓 MCA Student | Cybersecurity Enthusiast  
-🔐 Aspiring SOC Analyst  
+ Aspiring SOC Analyst  
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently learning Cybersecurity & Ethical Hacking  
-- 🌱 Practicing Network Security & Threat Analysis  
-- 🎯 Goal: Become a Cybersecurity Analyst  
+## About Me
+-  Currently learning Cybersecurity & Ethical Hacking  
+-  Practicing Network Security & Threat Analysis  
+-  Goal: Become a Cybersecurity Analyst  
 
 ---
 
-## 🛠️ Skills
+## Skills
 - Network Security
 - Wireshark
 - Nmap
@@ -22,7 +22,7 @@
 
 ---
 
-## 📜 Certifications
+##  Certifications
 - Cisco: Introduction to Cybersecurity  
 - Cisco: Packet Tracer  
 
@@ -35,6 +35,6 @@
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 - LinkedIn: https://www.linkedin.com/in/mokshith-kr-a334aa401
 - Email: mokshithkr17@gmail.com
