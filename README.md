@@ -1,37 +1,38 @@
-#  Hi, I'm Mokshith KR
+# 👋 Hi, I'm Mokshith KR
 
-🎓 MCA Student | Cybersecurity Enthusiast  
- Aspiring SOC Analyst  
+## ☁️ Cloud Security | Cybersecurity | Linux | AWS
 
----
+I'm an MCA Cyber Security student passionate about Cloud Security, AWS, Linux, and Network Security.
 
-## About Me
--  Currently learning Cybersecurity & Ethical Hacking  
--  Practicing Network Security & Threat Analysis  
--  Goal: Become a Cybersecurity Analyst  
+Currently building hands-on security labs and projects to become a Cloud Security Engineer.
 
 ---
 
-## Skills
-- Network Security
-- Wireshark
-- Nmap
-- Cisco Packet Tracer
+## 🚀 Skills
+
+- Linux
+- Networking
+- AWS Cloud
+- Cybersecurity
 - Python
-- Linux (Kali Linux)
+- Git & GitHub
 
 ---
 
-##  Certifications
-- Cisco: Introduction to Cybersecurity  
-- Cisco: Packet Tracer  
+## 📂 Featured Repositories
+
+- ☁️ CloudSecurity-Labs
+- 🐧 Linux-Labs
+- 🌐 Network-Security-Labs
+- 🔐 AWS-Security-Labs
+- 📚 Cybersecurity-Notes
 
 ---
 
-## 📂 Projects
-- 🔹 Network Simulation (Packet Tracer)
-- 🔹 Packet Analysis (Wireshark)
-- 🔹 Port Scanning (Nmap)
+## 🎯 Current Goal
+
+Become a Cloud Security Engineer by building real-world projects, earning certifications, and mastering AWS Security.
+
 
 ---
 
